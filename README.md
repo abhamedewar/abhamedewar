@@ -1,48 +1,25 @@
-<h1>
-  Hi there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;&center=true&size=24">
+  </a>
 </h1>
 
+
+<div>
 <div id="badges">
-  <a href="https://linkedin.com/in/abhishri-medewar/">
+  <a href="https://www.linkedin.com/in/abhishri-medewar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://abhishri-medewar.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  <a href="https://medium.com/@abhishri-medewar">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
-<br></br>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhamedewar&label=Profile%20views&color=red&style=for-the-badge" alt="abhamedewar" /> </p>
--->
-
-I am a Software Developer and Machine Learning Engineer.
-
-- 🌱 I’m currently learning Generative AI, Retrieval-augmented generation (RAG), and ML model optimization techniques.
-- 🌱 Expanding my skills in utilizing cloud technologies (AWS) and Kubernetes for model deployment and scalability.
-- 🌱 Striving to stay updated with the latest research advancements in Large Language Models. 
-- 👯 I’m looking to collaborate on building scalable machine learning solutions to solve real-world problems.
-- 📫 How to reach me: [abhishri.medewar@outlook.com](abhishri.medewar@outlook.com)
-
-<!--
-### Other Details
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhamedewar&show_icons=true&locale=en" alt="abhamedewar" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhamedewar&" alt="abhamedewar" /></p>
-
-
-**abhamedewar/abhamedewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br>
+I am a Machine Learning Engineer/ML Software Engineer solving complex deep learning problems and developing efficient machine learning enabled software solutions.<br> 
+<br><br>
+🔹 <b>I'm currently seeking full-time Machine Learning Engineer/Software Engineer- Machine Learning opportunities.</b>  🔹
+<br>
+<br>
+<p>Let's connect and explore the possibilities together! 🤝
+<br>More About me : <a href="https://abhamedewar.github.io/Personal_Website/">abhishrimedewar.com</a></p>
