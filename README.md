@@ -17,7 +17,7 @@
 </div>
 <br>
 I am a Machine Learning Engineer/ML Software Engineer solving complex deep learning problems and developing efficient machine learning enabled software solutions.<br> 
-<br><br>
+<br>
 🔹 <b>I'm currently seeking full-time Machine Learning Engineer/Software Engineer- Machine Learning opportunities.</b>  🔹
 <br>
 <br>
